@@ -18,8 +18,8 @@ A lightweight, loop-immune nested virtual environment runner for OpenComputers. 
 Run the automated installer directly inside your OpenComputers terminal to prepare the directories and configure the environment:
 
 ```bash
-wget https://raw.githubusercontent.com/Moo5561/OpenVM/main/install.lua
-lua install.lua
+wget https://raw.githubusercontent.com/Moo5561/OpenVM/main/setup.lua
+setup
 ```
 ## Uninstallation
 
