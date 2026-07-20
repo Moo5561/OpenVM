@@ -20,3 +20,11 @@ Run the automated installer directly inside your OpenComputers terminal to prepa
 ```bash
 wget [https://raw.githubusercontent.com/YOUR_USERNAME/OpenVM/main/install.lua](https://raw.githubusercontent.com/YOUR_USERNAME/OpenVM/main/install.lua)
 lua install.lua
+```
+## Uninstallation
+
+If you ever need to completely remove OpenVM, its environment configurations, and all files saved inside the sandbox wrapper, run the following command:
+
+```bash
+wget [https://raw.githubusercontent.com/YOUR_USERNAME/OpenVM/main/uninstall.lua](https://raw.githubusercontent.com/YOUR_USERNAME/OpenVM/main/uninstall.lua)
+lua uninstall.lua
